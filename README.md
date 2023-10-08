@@ -4,6 +4,7 @@
 This project involves building the back end for an e-commerce site The application allows users to manage product categories, products, and tags of an internet retail company.
 
 ## Video Walkthrough
+Link from Microsoft clipchamp was not generating so uploaded video to dropbox and sharing my link below::
 https://www.dropbox.com/scl/fi/dnqhlc8qjodkfhxq2k52b/Angelin_E_Commerce_WalkThrough.webm?rlkey=nn1kutjl1bs4wt0s8hfz3wzie&dl=0
 
 ## Functionality
